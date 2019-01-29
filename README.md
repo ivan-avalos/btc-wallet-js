@@ -12,7 +12,7 @@ This is the NodeJS version of the <a href="https://github.com/morfin/bitcoin_wal
 ## License (GPLv3)
 
 ```
-btc-wallet-js – NodeJS implementation of Bitcoin wallet
+btc-wallet-js – NodeJS implementation of Bitcoin wallet generator
 Copyright (C) 2018  Iván Ávalos
 
 This program is free software: you can redistribute it and/or modify
